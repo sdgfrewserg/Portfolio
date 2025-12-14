@@ -495,7 +495,7 @@
    transform: rotate(45deg) translate(-5px, -6px);
  }
 
- /* Tablets and Below - 1024px */
+ 
  @media screen and (max-width: 1024px) {
    .sectionone {
      font-size: 2rem;
@@ -540,7 +540,7 @@
    }
  }
 
- /* Tablets - 768px */
+ 
  @media screen and (max-width: 768px) {
    nav {
      flex-wrap: wrap;
@@ -668,7 +668,7 @@
    }
  }
 
- /* Mobile Devices - 480px */
+ 
  @media screen and (max-width: 480px) {
    .logo {
      width: 40px;
@@ -770,7 +770,6 @@
    }
  }
 
- /* Extra Small Devices - 360px */
  @media screen and (max-width: 360px) {
    .logo-name {
      font-size: 1.2rem;
